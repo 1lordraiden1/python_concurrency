@@ -1,0 +1,226 @@
+[
+    {
+        "user_id": 1,
+        "seat_number": 9,
+        "start_time": "2024-12-11T23:32:02.323892",
+        "end_time": "2024-12-11T23:32:02.824733",
+        "thread_id": 59344,
+        "action": "booked"
+    },
+    {
+        "user_id": 3,
+        "seat_number": 5,
+        "start_time": "2024-12-11T23:33:08.771793",
+        "end_time": "2024-12-11T23:33:09.272810",
+        "thread_id": 65516,
+        "action": "booked"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 4,
+        "start_time": "2024-12-11T23:33:59.649277",
+        "end_time": "2024-12-11T23:34:00.150546",
+        "thread_id": 23192,
+        "action": "booked"
+    },
+    {
+        "user_id": "admin",
+        "seat_number": "all",
+        "start_time": "2024-12-11T23:45:26.633511",
+        "end_time": null,
+        "thread_id": 66684,
+        "action": "cleared all bookings"
+    },
+    {
+        "user_id": "admin",
+        "seat_number": "all",
+        "start_time": "2024-12-11T23:46:11.094464",
+        "end_time": null,
+        "thread_id": 66684,
+        "action": "cleared all bookings"
+    },
+    {
+        "user_id": "admin",
+        "seat_number": "all",
+        "start_time": "2024-12-11T23:48:33.279156",
+        "end_time": null,
+        "thread_id": 67280,
+        "action": "cleared all bookings"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 2,
+        "start_time": "2024-12-12T00:08:14.534419",
+        "end_time": "2024-12-12T00:08:15.035499",
+        "thread_id": 67656,
+        "action": "booked"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 2,
+        "start_time": "2024-12-12T00:08:16.846853",
+        "end_time": "2024-12-12T00:08:17.348814",
+        "thread_id": 67656,
+        "action": "cancelled"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 1,
+        "start_time": "2024-12-12T00:21:32.075224",
+        "end_time": "2024-12-12T00:21:32.576678",
+        "thread_id": 69468,
+        "action": "booked"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 1,
+        "start_time": "2024-12-12T00:21:36.258979",
+        "end_time": "2024-12-12T00:21:36.761113",
+        "thread_id": 69468,
+        "action": "cancelled"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 1,
+        "start_time": "2024-12-12T00:21:54.524574",
+        "end_time": "2024-12-12T00:21:55.026588",
+        "thread_id": 69468,
+        "action": "booked"
+    },
+    {
+        "user_id": 2,
+        "seat_number": 2,
+        "start_time": "2024-12-12T00:22:20.279597",
+        "end_time": "2024-12-12T00:22:20.780994",
+        "thread_id": 69464,
+        "action": "booked"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 1,
+        "start_time": "2024-12-12T00:22:35.937326",
+        "end_time": "2024-12-12T00:22:36.438716",
+        "thread_id": 69464,
+        "action": "cancelled"
+    },
+    {
+        "user_id": 2,
+        "seat_number": 2,
+        "start_time": "2024-12-12T00:25:49.904081",
+        "end_time": "2024-12-12T00:25:50.405760",
+        "thread_id": 67580,
+        "action": "cancelled"
+    },
+    {
+        "user_id": 2,
+        "seat_number": 1,
+        "start_time": "2024-12-12T00:25:54.720774",
+        "end_time": "2024-12-12T00:25:55.222066",
+        "thread_id": 67580,
+        "action": "booked"
+    },
+    {
+        "user_id": 2,
+        "seat_number": 0,
+        "start_time": "2024-12-12T00:25:59.704822",
+        "end_time": "2024-12-12T00:26:00.205743",
+        "thread_id": 67580,
+        "action": "booked"
+    },
+    {
+        "user_id": "admin",
+        "seat_number": "all",
+        "start_time": "2024-12-12T00:26:09.643552",
+        "end_time": null,
+        "thread_id": 67580,
+        "action": "cleared all bookings"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 1,
+        "start_time": "2024-12-12T00:27:25.266899",
+        "end_time": "2024-12-12T00:27:25.767910",
+        "thread_id": 68820,
+        "action": "booked"
+    },
+    {
+        "user_id": "admin",
+        "seat_number": "all",
+        "start_time": "2024-12-12T00:27:28.331734",
+        "end_time": null,
+        "thread_id": 68820,
+        "action": "cleared all bookings"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 1,
+        "start_time": "2024-12-12T00:32:20.484730",
+        "end_time": "2024-12-12T00:32:20.986637",
+        "thread_id": 67440,
+        "action": "booked"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 1,
+        "start_time": "2024-12-12T00:32:25.693508",
+        "end_time": "2024-12-12T00:32:26.194686",
+        "thread_id": 67440,
+        "action": "cancelled"
+    },
+    {
+        "user_id": "admin",
+        "seat_number": "all",
+        "start_time": "2024-12-12T00:32:29.686793",
+        "end_time": null,
+        "thread_id": 67440,
+        "action": "cleared all bookings"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 2,
+        "start_time": "2024-12-12T00:32:35.342442",
+        "end_time": "2024-12-12T00:32:35.844326",
+        "thread_id": 67440,
+        "action": "booked"
+    },
+    {
+        "user_id": "admin",
+        "seat_number": "all",
+        "start_time": "2024-12-12T00:33:12.203486",
+        "end_time": null,
+        "thread_id": 67440,
+        "action": "cleared all bookings"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 1,
+        "start_time": "2024-12-12T00:38:26.823607",
+        "end_time": "2024-12-12T00:38:27.324837",
+        "thread_id": 70640,
+        "action": "booked"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 2,
+        "start_time": "2024-12-12T00:38:57.091301",
+        "end_time": "2024-12-12T00:38:57.593301",
+        "thread_id": 67752,
+        "action": "booked"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 4,
+        "start_time": "2024-12-12T00:40:49.584367",
+        "end_time": "2024-12-12T00:40:50.085382",
+        "thread_id": 64640,
+        "action": "booked"
+    },
+    {
+        "user_id": 1,
+        "seat_number": 9,
+        "start_time": "2024-12-12T00:42:46.374012",
+        "end_time": "2024-12-12T00:42:46.874550",
+        "thread_id": 70632,
+        "action": "booked"
+    }
+]
